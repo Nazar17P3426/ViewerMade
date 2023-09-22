@@ -1,2 +1,2 @@
 # ViewerMade
-All malwares are here!
+All no GDI / GDI malwares or ransomwares are here! :)
