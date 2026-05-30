@@ -1,2 +1,2 @@
 # Viewer Made Malwares
-All of GDI malwares, non-GDI malwares, ransomwares, and more will be here!
+All of GDI/non-GDI malwares, ransomwares and more will be here! :)
